@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "621377815742",
+    "firebase_url": "https://cine-classico.firebaseio.com",
+    "project_id": "cine-classico",
+    "storage_bucket": "cine-classico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621377815742:android:ae212b252a2f5879",
+        "android_client_info": {
+          "package_name": "com.studiotrek.cineclassico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621377815742-hkkja6jrgfsrldkbovqklg04c3qpapal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studiotrek.cineclassico",
+            "certificate_hash": "817723bd09c0faa286d616290d0dad0721dc17da"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0pzNLXlNfxySTamF7WfWTxwfLyApGq98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

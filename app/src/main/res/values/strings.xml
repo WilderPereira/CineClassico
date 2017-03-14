@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cine Classico</string>
+    <string name="facebook_app_id">608713805990289</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="conectar">Conectar</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="desconectar">Desconectar</string>
+    <string name="operacao_cancelada">Operação Cancelada</string>
+    <string name="erro_conexao">Erro na Conexão</string>
+    <string name="nao_possivel">Não Foi Possivel Conectar</string>
+    <string name="invalido">Inválido</string>
+    <string name="criar_usuario">Criar Usuario</string>
+    <string name="email">Email</string>
+    <string name="voltar">Voltar</string>
+    <string name="offline">Offline</string>
+    <string name="ativar_wifi">Ativar WIFI</string>
+    <string name="realizando_login">Realizando Login</string>
+    <string name="imagem">Imagem</string>
+</resources>
