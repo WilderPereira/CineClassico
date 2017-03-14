@@ -19,32 +19,14 @@ public class FilmeHolder extends RecyclerView.ViewHolder {
 
     private Context context;
     private ImageView ivCardImagem1;
-    private ImageView ivCardImagem2;
-    private ImageView ivCardImagem3;
 
     public FilmeHolder(Context context, View itemView) {
         super(itemView);
         this.context = context;
 
         ivCardImagem1 = (ImageView) itemView.findViewById(R.id.iv_card_imagem1);
-        ivCardImagem2 = (ImageView) itemView.findViewById(R.id.iv_card_imagem2);
-        ivCardImagem3 = (ImageView) itemView.findViewById(R.id.iv_card_imagem3);
 
         ivCardImagem1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-            }
-        });
-
-        ivCardImagem2.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-            }
-        });
-
-        ivCardImagem3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
